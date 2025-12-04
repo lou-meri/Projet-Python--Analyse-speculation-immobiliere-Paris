@@ -5,6 +5,7 @@
 # Données (ne pas versionner les données brutes)
 data/
 !data/README.md  # Garder uniquement un README vide dans data/
+Dossier data généré par les notebooks (ignorer)/
 
 # Résultats (générés automatiquement)
 output/
